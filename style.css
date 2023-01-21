@@ -1,0 +1,53 @@
+*{
+    position: relative;
+}
+#text-area{
+    border: 2px solid;
+    padding: 20px; 
+    width: 300px;
+    resize: both;
+    overflow: auto;
+}
+.input{
+ padding-top: 
+}
+.wap{
+    border: 1px solid #808080;
+border-radius: 10px;
+
+}
+.format1{
+ padding: 14px 28px;
+    
+}
+.format2{
+ padding: 14px 28px;
+    
+}
+.format3{
+ padding: 14px 28px;
+    
+}
+.format4{
+ padding: 14px 28px;
+    
+}
+.right-side{
+    position: absolute;
+    left: 912px;
+    right: 100px;
+    top: 94px;
+
+}
+.left-side{
+    position: absolute;
+    left: 55px;
+    top: 94px;
+
+}
+.box1{
+    padding: 40px;
+}
+.box2{
+    padding: 40px;
+}
